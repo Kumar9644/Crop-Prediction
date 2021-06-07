@@ -6,3 +6,4 @@ This project is about predicting which crop is best fitted to be planted based o
 ->pH - pH value of the soil
 ->Rainfall - rainfall measured in mm
 The model is successfully deployed on Heroku.
+EDA part is succesfully visualized on power-Bi
